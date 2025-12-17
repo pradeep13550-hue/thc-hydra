@@ -1,0 +1,13 @@
+gcc
+make
+git
+openssl
+openssl-dev
+libssh
+libssh-dev
+libidn
+libidn-dev
+zlib
+zlib-dev
+ncurses
+ncurses-dev
